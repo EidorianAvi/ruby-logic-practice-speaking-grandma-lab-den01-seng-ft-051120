@@ -13,6 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(input)
-  if input 
+  if input = "I love you "
   end
 end
